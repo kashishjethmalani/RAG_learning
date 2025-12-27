@@ -1,0 +1,5 @@
+
+    Machine learning is a field of artificial intelligence that focuses on building systems that learn from data.
+    It is used for tasks such as image recognition, natural language processing, and predictive modeling.
+    Machine learning is a subset of artificial intelligence and is closely related to data science.
+    
